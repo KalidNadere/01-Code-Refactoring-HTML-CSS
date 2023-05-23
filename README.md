@@ -11,7 +11,14 @@ By carrying it code refactoring in this project, it was great practice to get fa
 This file also contains a URL link to the website as well as screenshot of the deployed site.
 
 
+## Deployed website URL
 
+https://kalidnadere.github.io/Code-Refactoring-HTML-CSS/#social-media-marketing 
+
+
+## Deployed site screenshot
+
+https://github.com/KalidNadere/Code-Refactoring-HTML-CSS/issues/1#issue-1721088190 
 
 ## License
 
