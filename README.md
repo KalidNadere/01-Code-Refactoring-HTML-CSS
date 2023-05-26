@@ -18,7 +18,9 @@ https://kalidnadere.github.io/Code-Refactoring-HTML-CSS/#social-media-marketing
 
 ## Deployed site screenshot
 
-https://github.com/KalidNadere/Code-Refactoring-HTML-CSS/issues/1#issue-1721088190 
+[screenshot](./screenshot/web%20page%20screenshot.png)
+
+
 
 ## License
 
