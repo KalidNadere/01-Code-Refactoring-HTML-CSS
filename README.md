@@ -13,7 +13,7 @@ This file also contains a URL link to the website as well as screenshot of the d
 
 ## Deployed website URL
 
-https://kalidnadere.github.io/Code-Refactoring-HTML-CSS/#social-media-marketing 
+https://kalidnadere.github.io/01-Code-Refactoring-HTML-CSS/
 
 
 ## Deployed site screenshot
